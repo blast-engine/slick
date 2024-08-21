@@ -1,1 +1,1 @@
-# slick-resume
+# slick
