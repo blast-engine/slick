@@ -1,0 +1,6 @@
+{
+  "name": "@blast-engine/slick",
+  "scripts": {
+    "push": "git add .; git commit -m $; git push"
+  }
+}
